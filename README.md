@@ -40,6 +40,3 @@ and saves the extracted pages as a new PDF file.
 
    The script will create a folder named `EditedPDFs` on your Desktop (if it doesn't already exist) and save the extracted pages as a new PDF file inside this folder.
 
-## License
-
-This project is licensed under the MIT License.
